@@ -1,0 +1,233 @@
+{
+	"preguntes": [{
+			"id": 1,
+			"pregunta": "1. ¿Como se llama este personaje?",
+			"respostes": [{
+					"id": 1,
+					"etiqueta": "Capitán America"
+				},
+				{
+					"id": 2,
+					"etiqueta": "Thor"
+				},
+				{
+					"id": 3,
+					"etiqueta": "Iron-man"
+				},
+				{
+					"id": 4,
+					"etiqueta": "Drax"
+				}
+			],
+			"resposta_correcta": 2,
+			"imatge": "https://i.blogs.es/b99026/thor/1366_2000.webp"
+		},
+		{
+			"id": 2,
+			"pregunta": "2. ¿En que saga aparece este personaje?",
+			"respostes": [{
+					"id": 1,
+					"etiqueta": "Harry Potter"
+				},
+				{
+					"id": 2,
+					"etiqueta": "El señor de los anillos"
+				},
+				{
+					"id": 3,
+					"etiqueta": "Juego de tronos"
+				},
+				{
+					"id": 4,
+					"etiqueta": "Star Wars"
+				}
+			],
+			"resposta_correcta": 4,
+			"imatge": "https://album.mediaset.es/eimg/10000/2020/11/22/clipping_rNunOh_da5e.jpg?w=480"
+		},
+		{
+			"id": 3,
+			"pregunta": "3. ¿En que musical aparece este personaje?",
+			"respostes": [{
+					"id": 1,
+					"etiqueta": "Grease"
+				},
+				{
+					"id": 2,
+					"etiqueta": "Mamma Mia"
+				},
+				{
+					"id": 3,
+					"etiqueta": "El gran showman"
+				},
+				{
+					"id": 4,
+					"etiqueta": "Los miserables"
+				}
+			],
+			"resposta_correcta": 3,
+			"imatge": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSReQ8JoDGKe_XxyX9k8IpjQApqFcwE-50oGA&usqp=CAU"
+		},
+		{
+			"id": 4,
+			"pregunta": "4. ¿Como se llama este personaje?",
+			"respostes": [{
+					"id": 1,
+					"etiqueta": "Neo"
+				},
+				{
+					"id": 2,
+					"etiqueta": "Charles"
+				},
+				{
+					"id": 3,
+					"etiqueta": "Morpheo"
+				},
+				{
+					"id": 4,
+					"etiqueta": "Miguel Angel"
+				}
+			],
+			"resposta_correcta": 3,
+			"imatge": "https://i2.wp.com/www.sinembargo.mx/wp-content/uploads/2021/09/laurence-fishburne-as-morpheus-the-matrix.jpg?fit=1100%2C580&quality=80&strip=all&ssl=1"
+		},
+		{
+			"id": 5,
+			"pregunta": "5. ¿En que saga aparece este personaje?",
+			"respostes": [{
+					"id": 1,
+					"etiqueta": "Harry potter"
+				},
+				{
+					"id": 2,
+					"etiqueta": "El rey león"
+				},
+				{
+					"id": 3,
+					"etiqueta": "Matrix"
+				},
+				{
+					"id": 4,
+					"etiqueta": "Star Wars"
+				}
+			],
+			"resposta_correcta": 1,
+			"imatge": "https://imgix.bustle.com/rehost/2016/9/13/10356392-8231-4a53-abf9-d4a2d465077b.jpg?w=614&fit=crop&crop=faces&auto=format%2Ccompress&q=50&dpr=2"
+		},
+		{
+			"id": 6,
+			"pregunta": "6. ¿Como se llama este personaje?",
+			"respostes": [{
+					"id": 1,
+					"etiqueta": "Axel Blaze"
+				},
+				{
+					"id": 2,
+					"etiqueta": "Mark Evans"
+				},
+				{
+					"id": 3,
+					"etiqueta": "Carlos"
+				},
+				{
+					"id": 4,
+					"etiqueta": "Alberto"
+				}
+			],
+			"resposta_correcta": 3,
+			"imatge": "https://areajugones.sport.es/wp-content/uploads/2022/01/mark-evans-inazuma-eleven.jpeg.webp"
+		},
+		{
+			"id": 7,
+			"pregunta": "7. ¿En que musical aparece esta escena?",
+			"respostes": [{
+					"id": 1,
+					"etiqueta": "Mamma mia"
+				},
+				{
+					"id": 2,
+					"etiqueta": "El gran showman"
+				},
+				{
+					"id": 3,
+					"etiqueta": "Hamilton"
+				},
+				{
+					"id": 4,
+					"etiqueta": "La la land"
+				}
+			],
+			"resposta_correcta": 3,
+			"imatge": "https://www.lanzadigital.com/wp-content/uploads/2022/05/la-la-land-makes-its-debut-at-toronto-international-film-festival-2016-2-2.jpg"
+		},
+    {
+			"id": 8,
+			"pregunta": "8. ¿Como se llama este personaje?",
+			"respostes": [{
+					"id": 1,
+					"etiqueta": "Pablo Volcanes"
+				},
+				{
+					"id": 2,
+					"etiqueta": "Khal Drogo"
+				},
+				{
+					"id": 3,
+					"etiqueta": "Jose Luis"
+				},
+				{
+					"id": 4,
+					"etiqueta": "John Snow"
+				}
+			],
+			"resposta_correcta": 4,
+			"imatge": "https://media.vanityfair.com/photos/63974b59d6001ee3cc78578a/1:1/w_2000,h_2000,c_limit/kit-harington-Jon-Snow.png"
+		},
+    {
+			"id": 9,
+			"pregunta": "9. ¿En que saga aparece este personaje?",
+			"respostes": [{
+					"id": 1,
+					"etiqueta": "Juego de tronos"
+				},
+				{
+					"id": 2,
+					"etiqueta": "Mi primer beso"
+				},
+				{
+					"id": 3,
+					"etiqueta": "Torrente"
+				},
+				{
+					"id": 4,
+					"etiqueta": "Star Wars"
+				}
+			],
+			"resposta_correcta": 1,
+			"imatge": "https://fotografias.antena3.com/clipping/cmsimages01/2017/03/14/77A0EB57-C13A-49CE-994F-EC21EFB8AED5/98.jpg?crop=612,344,x0,y0&width=1900&height=1069&optimize=low&format=webply"
+		},
+    {
+			"id": 10,
+			"pregunta": "10. ¿A que musical pertenece esta imagen?",
+			"respostes": [{
+					"id": 1,
+					"etiqueta": "Mamma mia"
+				},
+				{
+					"id": 2,
+					"etiqueta": "Hamilton"
+				},
+				{
+					"id": 3,
+					"etiqueta": "Los miserables"
+				},
+				{
+					"id": 4,
+					"etiqueta": "My little pony"
+				}
+			],
+			"resposta_correcta": 2,
+			"imatge": "https://img2.rtve.es/i/?w=1600&i=1593735475199.jpg"
+		}
+	]
+}

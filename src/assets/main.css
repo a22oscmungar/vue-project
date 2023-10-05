@@ -1,0 +1,88 @@
+body{
+  background-color:bisque;
+  padding: 15px;
+}
+
+.preguntas-lista {
+  list-style-type: none;
+  padding: 0;
+}
+
+.imagen-pregunta {
+  max-width: 300px;
+}
+
+.respuestas { 
+  margin-left: 20px; 
+}
+
+.pregunta{
+  display: flex;
+  flex-direction: row;
+}
+
+.botonOpciones, .botonEditar, .botonEliminar, .botonAñadir, .btnDatos{
+  background-color: #007BFF; 
+  color: white; 
+  padding: 5px 10px; 
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 15px;
+}
+
+.imagen-pregunta {
+	width: 650px;
+}
+
+li .respuestaCorrecta{
+  list-style: none;
+  color: green;
+}
+
+.contenedor {
+  display: flex;
+  justify-content: start;
+  align-items: start;
+}
+
+
+.formulario-edicion, .datos, .estadisticas {
+  flex: 1; 
+  margin-left: 20px; 
+  padding: 20px;
+  border: 1px solid #ccc; 
+  background-color: #f9f9f9; 
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); 
+}
+
+.btnGuardar{
+  margin: 15px;
+}
+label, input{
+  margin: 10px;
+  margin-bottom: 10px;
+}
+
+.formularioAñadir{
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  width: 500px;
+  background-color: aliceblue;
+}
+.formularioAñadir input, .formularioAñadir select {
+  width: 100%; 
+  max-width: 400px; 
+  padding: 5px; 
+  box-sizing: border-box;
+  border-radius: 5%;
+  margin-left: 15px;
+}
+
+.btnAñadir2{
+  background-color: aquamarine;
+  margin: 15px;
+}
+
+
